@@ -1,6 +1,6 @@
 # Imersão Java - Alura
 
-Esse repositório contém os códigos desenvolvidos nas aulas da Imersão Java realizada pela plataforma Alura
+Esse repositório contém os códigos desenvolvidos nas aulas da Imersão Java realizada pela plataforma Alura.
 
 ## Aula 1
 
