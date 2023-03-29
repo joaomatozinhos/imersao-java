@@ -11,3 +11,14 @@ Foi desenvolvido um código para buscar e extrair (parse) dados de uma API de fi
 - Como fazer requisição HTTP com Java;
 - Parse de arquivo JSON;
 - Expressões regulares.
+
+## Aula 2
+
+Foi desenvolvido um código para trabalhar com imagens e edita-la inserindo texto, com intuito de gerar uma figurinha.
+
+### Conceitos trabalhados:
+
+- Classe InputStream;
+- Classe BufferedImage;
+- Classe Image.IO
+- Classe Graphics2D
