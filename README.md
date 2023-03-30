@@ -20,5 +20,16 @@ Foi desenvolvido um código para trabalhar com imagens e edita-la inserindo text
 
 - Classe InputStream;
 - Classe BufferedImage;
-- Classe Image.IO
-- Classe Graphics2D
+- Classe Image.IO;
+- Classe Graphics2D.
+
+## Aula 3
+
+Nessa aula o código foi refatorado aplicando princípios de Clean Code e SOLID, para que haja uma distribuição de funções entre classes e facilite mudanças e manutenções futuras no código.
+
+### Conceitos trabalhados:
+
+- Refatoração;
+- Orientação a objetos
+- Clean Code;
+- SOLID.

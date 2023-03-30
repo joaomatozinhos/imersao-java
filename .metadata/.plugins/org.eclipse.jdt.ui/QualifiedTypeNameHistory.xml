@@ -16,4 +16,10 @@
     <fullyQualifiedTypeName name="java.awt.font.TextLayout"/>
     <fullyQualifiedTypeName name="java.awt.geom.AffineTransform"/>
     <fullyQualifiedTypeName name="java.awt.BasicStroke"/>
+    <fullyQualifiedTypeName name="alura_stickers.ClienteHttp"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="alura_stickers.ExtratorConteudoDaNasa"/>
+    <fullyQualifiedTypeName name="alura_stickers.ExtratorConteudo"/>
 </qualifiedTypeNameHistroy>
