@@ -22,4 +22,10 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="alura_stickers.ExtratorConteudoDaNasa"/>
     <fullyQualifiedTypeName name="alura_stickers.ExtratorConteudo"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.com.alura.linguagens.api.LinguagensApiApplication"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="br.com.alura.linguagens.api.Linguagem"/>
+    <fullyQualifiedTypeName name="alura_stickers.ExtratorConteudoDoImdb"/>
+    <fullyQualifiedTypeName name="br.com.alura.linguagens.api.LinguagemRepository"/>
 </qualifiedTypeNameHistroy>
