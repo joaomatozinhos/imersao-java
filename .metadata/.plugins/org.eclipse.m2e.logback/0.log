@@ -1235,3 +1235,8 @@ org.eclipse.core.runtime.CoreException: Launch configuration LinguagensApiApplic
 2023-03-31 15:15:52,271 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-03-31 15:15:52,275 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-31 15:15:52,277 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jpmat\Documents\Meus Documentos\imersao-java-2\linguagens-api\src\test\resources
+2023-03-31 15:18:35,169 [Worker-62: Push to imersao-java-2 refs/heads/main - origin] INFO  o.a.s.c.u.s.e.EdDSASecurityProviderRegistrar - getOrCreateProvider(EdDSA) created instance of net.i2p.crypto.eddsa.EdDSASecurityProvider
+2023-03-31 15:18:35,236 [Worker-62: Push to imersao-java-2 refs/heads/main - origin] INFO  o.a.s.c.i.DefaultIoServiceFactoryFactory - No detected/configured IoServiceFactoryFactory; using Nio2ServiceFactoryFactory
+2023-03-31 19:11:29,372 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-31 19:11:29,372 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-31 19:11:29,375 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jpmat\Documents\Meus Documentos\imersao-java-2\linguagens-api\src\test\resources
