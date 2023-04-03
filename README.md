@@ -33,3 +33,18 @@ Nessa aula o código foi refatorado aplicando princípios de Clean Code e SOLID,
 - Orientação a objetos
 - Clean Code;
 - SOLID.
+
+## Aula 4
+
+Nessa aula foi criado uma própria API usando o framework Spring e desenvolvido um CRUD completo.
+Foi utilizado o MongoDB Atlas como banco de dados.
+
+Foi mostrado como iniciar uma aplicação usando Maven e Spring e um overview sobre esse framework, como suas anotações.
+
+### Conceitos trabalhados:
+
+- Iniciar aplicação Java com Maven e Spring;
+- Conectar aplicação Java com banco de dados através do Spring;
+- Criar e utilizar uma API Rest;
+- Gerenciar API's com Postman;
+- Anotações do Spring.
