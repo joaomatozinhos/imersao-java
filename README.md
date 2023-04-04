@@ -1,6 +1,6 @@
 # Imersão Java - Alura
 
-Esse repositório contém os códigos desenvolvidos nas aulas da Imersão Java realizada pela plataforma Alura.
+Esse repositório contém os códigos desenvolvidos nas aulas da Imersão Java realizada pela plataforma Alura com orientação dos professores Paulo Silveira, Jacqueline Oliveira e Alexandre Aquiles.
 
 ## Aula 1
 
@@ -14,7 +14,7 @@ Foi desenvolvido um código para buscar e extrair (parse) dados de uma API de fi
 
 ## Aula 2
 
-Foi desenvolvido um código para trabalhar com imagens e edita-la inserindo texto, com intuito de gerar uma figurinha.
+Foi desenvolvido um código para trabalhar com imagens e edita-las inserindo texto, com intuito de gerar uma figurinha de WhatsApp.
 
 ### Conceitos trabalhados:
 
@@ -30,7 +30,7 @@ Nessa aula o código foi refatorado aplicando princípios de Clean Code e SOLID,
 ### Conceitos trabalhados:
 
 - Refatoração;
-- Orientação a objetos
+- Orientação a objetos;
 - Clean Code;
 - SOLID.
 
@@ -45,6 +45,20 @@ Foi mostrado como iniciar uma aplicação usando Maven e Spring e um overview so
 
 - Iniciar aplicação Java com Maven e Spring;
 - Conectar aplicação Java com banco de dados através do Spring;
-- Criar e utilizar uma API Rest;
+- Criar e consumir uma API Rest;
 - Gerenciar API's com Postman;
 - Anotações do Spring.
+
+## Aula 5
+
+Nessa aula foi feito o build e o deploy da aplicação, além de ser mostrado conceitos inicias de Docker.
+
+O build é quando geramos um arquivo executável, ou seja, um arquivo compactado com todas as dependências do projeto. Já o deploy é o momento em que colocamos esse arquivo na cloud/servidor.
+
+Obs.: não foi digitado nenhum código, pois para atingir o objetivo os comandos são via terminal.
+
+### Conceitos trabalhados:
+
+- Build e deploy da aplicação;
+- Armazenamento na cloud;
+- Conceitos iniciais de Docker (construção de imagem e container).
